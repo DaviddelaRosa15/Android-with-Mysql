@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Clientes</string>
+    <string name="all">TODO</string>
+    <string name="name">David Nathanael de la Rosa Lopez</string>
+    <string name="date">10/3/2023</string>
+    <string name="age">18</string>
+    <string name="form_title">Nuevo Cliente</string>
+    <string name="name_age">Edad</string>
+    <string name="name_name">Nombre</string>
+    <string name="title_add">Nuevo Cliente</string>
+    <string name="title_edit">Datos del Cliente</string>
+    <string name="save">Guardar</string>
+    <string name="title_count">Conteo por rango de edad</string>
+</resources>
